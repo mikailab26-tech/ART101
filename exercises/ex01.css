@@ -1,0 +1,29 @@
+html {background: tan;}
+p {background: white;}
+p{padding: 50px;}
+ul{background: white;}
+
+.highlight_01 {background: palevioletred;}
+.highlight_01 strong {background: pink;}
+a {color:aquamarine;}
+h1{background: rgb(28, 28, 138);}
+a {background: rgb(75, 75, 255)}
+h1 {color:white;}
+
+ul:hover {color:aqua; background: rgb(255, 0, 242)}
+h3:hover {color:rgb(255, 0, 242); background:rgb(0, 255, 8)}
+h3{background: white;}
+h4 {background: white;}
+h4{padding: 50px;}
+h3{padding: 50px;}
+h4:hover {color:yellow; background:aqua}
+p:hover {color:rgb(0, 255, 8); background:yellow;}
+
+p{-webkit-box-shadow: 7px -5px 10px 0px #4B0082, 11px -9px 10px 0px #0000FF, 16px -14px 10px 0px #00FF00, 20px -17px 10px 0px #FFFF00, 24px -19px 10px 0px #FF7F00, 27px -23px 10px 0px #FF0000, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 7px -5px 10px 0px #4B0082, 11px -9px 10px 0px #0000FF, 16px -14px 10px 0px #00FF00, 20px -17px 10px 0px #FFFF00, 24px -19px 10px 0px #FF7F00, 27px -23px 10px 0px #FF0000, 5px 5px 15px 5px rgba(0,0,0,0);}
+p{border-radius: 100px;}
+
+#gallery {
+    display: flex; flex-wrap: flex;
+align-items: flex-start;
+}
